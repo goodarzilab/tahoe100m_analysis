@@ -1,0 +1,380 @@
+drug,cluster,moa_fine,moa_broad
+(R)-Verapamil (hydrochloride),3,unclear,inhibitor/antagonist
+(S)-Crizotinib,4,unclear,inhibitor/antagonist
+18β-Glycyrrhetinic acid,3,unclear,unclear
+4EGI-1,1,Protein synthesis inhibitor,inhibitor/antagonist
+5-Azacytidine,1,DNA methyltransferase inhibitor,inhibitor/antagonist
+5-Fluorouracil,2,DNA synthesis/repair inhibitor,inhibitor/antagonist
+8-Hydroxyquinoline,3,unclear,unclear
+9-ING-41,1,GSK3 inhibitor,inhibitor/antagonist
+APTO-253,1,unclear,unclear
+AT7519,1,CDK inhibitor,inhibitor/antagonist
+AZD-7648,1,DNA synthesis/repair inhibitor,inhibitor/antagonist
+AZD-8055,1,MTOR inhibitor,inhibitor/antagonist
+AZD1390,1,unclear,inhibitor/antagonist
+AZD2858,1,GSK3 inhibitor,inhibitor/antagonist
+Abemaciclib,1,CDK inhibitor,inhibitor/antagonist
+Abiraterone acetate,2,unclear,inhibitor/antagonist
+Acetazolamide,2,unclear,inhibitor/antagonist
+Acetohexamide,3,unclear,activator/agonist
+Adagrasib,4,RAS inhibitor,inhibitor/antagonist
+Adenine,3,unclear,unclear
+Adenosine,3,unclear,unclear
+Afatinib,1,EGFR/ERBB inhibitor,inhibitor/antagonist
+Aliskiren,3,unclear,inhibitor/antagonist
+Allantoin,3,unclear,unclear
+Allopurinol,2,unclear,inhibitor/antagonist
+Almonertinib (hydrochloride),3,EGFR/ERBB inhibitor,inhibitor/antagonist
+Almonertinib (mesylate),2,EGFR/ERBB inhibitor,inhibitor/antagonist
+Alpelisib,1,PI3K/AKT inhibitor,inhibitor/antagonist
+Altretamine,4,DNA synthesis/repair inhibitor,unclear
+Amsacrine,1,DNA synthesis/repair inhibitor,inhibitor/antagonist
+Anastrozole,1,unclear,inhibitor/antagonist
+Anethole trithione,3,unclear,unclear
+Apalutamide,4,Androgen receptor antagonist,inhibitor/antagonist
+Aprepitant,2,unclear,inhibitor/antagonist
+Arbutin,2,unclear,inhibitor/antagonist
+Artemether,2,unclear,unclear
+Artesunate,3,JAK/STAT inhibitor,inhibitor/antagonist
+Asciminib,2,Other TK inhibitor,inhibitor/antagonist
+Aspirin,2,Cyclooxygenase inhibitor,inhibitor/antagonist
+Ataluren,2,unclear,inhibitor/antagonist
+Atazanavir (sulfate),2,unclear,inhibitor/antagonist
+Auranofin,1,unclear,inhibitor/antagonist
+Azithromycin (hydrate),3,unclear,unclear
+BAY1125976,1,PI3K/AKT inhibitor,inhibitor/antagonist
+BI-3406,1,RAS inhibitor,inhibitor/antagonist
+BI-78D3,1,Other MAPK inhibitor,inhibitor/antagonist
+Baicalin,3,unclear,activator/agonist
+Balsalazide (sodium hydrate),3,JAK/STAT inhibitor,unclear
+Belinostat,1,HDAC inhibitor,inhibitor/antagonist
+Belumosudil,1,unclear,inhibitor/antagonist
+Belumosudil (mesylate),1,unclear,inhibitor/antagonist
+Belzutifan,1,unclear,inhibitor/antagonist
+Bendamustine,2,DNA synthesis/repair inhibitor,unclear
+Benproperine (phosphate),4,unclear,inhibitor/antagonist
+Bentamapimod,1,Other MAPK inhibitor,inhibitor/antagonist
+Benztropine (mesylate),2,unclear,inhibitor/antagonist
+Berbamine,3,unclear,inhibitor/antagonist
+Berbamine (dihydrochloride),2,unclear,inhibitor/antagonist
+Berberine (chloride hydrate),3,unclear,unclear
+Bergenin,3,unclear,unclear
+Bestatin,4,unclear,inhibitor/antagonist
+Bestatin (hydrochloride),2,unclear,inhibitor/antagonist
+Betamethasone dipropionate,2,Glucocorticoid receptor agonist,activator/agonist
+Bexarotene,2,Retinoic receptor agonist,activator/agonist
+Bicalutamide,2,Androgen receptor antagonist,inhibitor/antagonist
+Bimatoprost,3,unclear,unclear
+Bimiralisib,1,PI3K/AKT inhibitor,inhibitor/antagonist
+Binimetinib,1,MEK inhibitor,inhibitor/antagonist
+Bisoprolol (hemifumarate),4,Adrenoceptor agonist,inhibitor/antagonist
+Bortezomib,1,Proteasome inhibitor,inhibitor/antagonist
+Bosentan (hydrate),4,unclear,inhibitor/antagonist
+Brimonidine,2,Adrenoceptor agonist,activator/agonist
+Brivudine,1,unclear,unclear
+Budesonide,2,Glucocorticoid receptor agonist,activator/agonist
+Busulfan,3,DNA synthesis/repair inhibitor,unclear
+CP21R7,1,GSK3 inhibitor,inhibitor/antagonist
+Cabozantinib (S-malate),2,Multi-TK inhibitor,inhibitor/antagonist
+Canagliflozin,4,Glucose transporter inhibitor,inhibitor/antagonist
+Canagliflozin (hemihydrate),2,Glucose transporter inhibitor,inhibitor/antagonist
+Capivasertib,1,PI3K/AKT inhibitor,inhibitor/antagonist
+Capmatinib,1,EGFR/ERBB inhibitor,inhibitor/antagonist
+Captopril,2,unclear,inhibitor/antagonist
+Carbamazepine,2,HDAC inhibitor,inhibitor/antagonist
+Carbidopa (monohydrate),2,unclear,inhibitor/antagonist
+Celecoxib,1,Cyclooxygenase inhibitor,inhibitor/antagonist
+Cepharanthine,3,unclear,inhibitor/antagonist
+Chlorhexidine (diacetate),3,unclear,unclear
+Ciclopirox,3,unclear,unclear
+Cilostazol,4,unclear,inhibitor/antagonist
+Cinacalcet,2,unclear,activator/agonist
+Citalopram (hydrobromide),2,unclear,inhibitor/antagonist
+Clobetasol propionate,2,unclear,inhibitor/antagonist
+Clofarabine,4,DNA synthesis/repair inhibitor,inhibitor/antagonist
+Clonidine (hydrochloride),3,Adrenoceptor agonist,activator/agonist
+Clopidogrel,2,unclear,inhibitor/antagonist
+Clotrimazole,3,unclear,inhibitor/antagonist
+Cloxacillin (sodium),3,unclear,inhibitor/antagonist
+Cobimetinib,1,MEK inhibitor,inhibitor/antagonist
+Crizotinib (hydrochloride),2,Multi-TK inhibitor,inhibitor/antagonist
+Cyclosporin A,2,unclear,inhibitor/antagonist
+Cysteamine (hydrochloride),3,unclear,unclear
+Cytarabine,4,DNA synthesis/repair inhibitor,inhibitor/antagonist
+Cytarabine (hydrochloride),4,DNA synthesis/repair inhibitor,inhibitor/antagonist
+DT-061,1,unclear,activator/agonist
+DTP3,1,unclear,inhibitor/antagonist
+Dabrafenib,1,RAF inhibitor,inhibitor/antagonist
+Daidzin,4,unclear,inhibitor/antagonist
+Dapagliflozin,2,Glucose transporter inhibitor,inhibitor/antagonist
+"Dapagliflozin ((2S)-1,2-propanediol, hydrate)",4,Unknown,Unknown
+Daptomycin,1,unclear,unclear
+Darinaparsin,3,unclear,unclear
+Darolutamide,2,Androgen receptor antagonist,inhibitor/antagonist
+Decitabine,4,DNA methyltransferase inhibitor,inhibitor/antagonist
+Delamanid,2,unclear,inhibitor/antagonist
+Demeclocycline,3,unclear,inhibitor/antagonist
+Dexamethasone,2,Glucocorticoid receptor agonist,activator/agonist
+Dexmedetomidine,4,Adrenoceptor agonist,activator/agonist
+Diammonium Glycyrrhizinate,3,unclear,unclear
+Digitoxin,1,unclear,unclear
+Dihydroartemisinin,2,unclear,unclear
+Dimethyl fumarate,4,unclear,activator/agonist
+Dinaciclib,1,CDK inhibitor,inhibitor/antagonist
+Diphenhydramine,4,unclear,inhibitor/antagonist
+Docetaxel,3,Microtubule inhibitor,inhibitor/antagonist
+Docetaxel (Trihydrate),4,Microtubule inhibitor,unclear
+Dorzolamide (hydrochloride),4,unclear,inhibitor/antagonist
+Doxorubicin (hydrochloride),1,DNA synthesis/repair inhibitor,inhibitor/antagonist
+Doxycycline (monohydrate),4,unclear,inhibitor/antagonist
+Drospirenone,2,unclear,unclear
+ERK5-IN-2,1,Other MAPK inhibitor,inhibitor/antagonist
+ETC-206,1,Protein synthesis inhibitor,inhibitor/antagonist
+EX229,1,unclear,activator/agonist
+Econazole,2,unclear,unclear
+Edoxaban (tosylate monohydrate),2,unclear,inhibitor/antagonist
+Elagolix sodium,3,unclear,inhibitor/antagonist
+Elimusertib hydrochloride,1,unclear,inhibitor/antagonist
+Encorafenib,1,RAF inhibitor,inhibitor/antagonist
+Entecavir (monohydrate),4,unclear,unclear
+Entrectinib,2,Other TK inhibitor,inhibitor/antagonist
+Epirubicin (hydrochloride),1,DNA synthesis/repair inhibitor,inhibitor/antagonist
+Eplerenone,4,unclear,inhibitor/antagonist
+Erdafitinib,1,Unknown,Unknown
+Erlotinib,4,EGFR/ERBB inhibitor,inhibitor/antagonist
+Erythromycin,2,unclear,inhibitor/antagonist
+Esmolol (hydrochloride),2,unclear,inhibitor/antagonist
+Estrone sulfate (potassium),2,unclear,unclear
+Everolimus,1,MTOR inhibitor,inhibitor/antagonist
+Fedratinib (hydrochloride hydrate),2,JAK/STAT inhibitor,inhibitor/antagonist
+Fenofibrate,4,unclear,unclear
+Ferulic acid,4,Other TK inhibitor,inhibitor/antagonist
+Filgotinib,2,JAK/STAT inhibitor,inhibitor/antagonist
+Finasteride,4,unclear,inhibitor/antagonist
+Fingolimod (hydrochloride),2,unclear,unclear
+Flumatinib (mesylate),2,Other TK inhibitor,inhibitor/antagonist
+Flutamide,2,Androgen receptor antagonist,inhibitor/antagonist
+Fluvoxamine,4,unclear,unclear
+Fluvoxamine (maleate),3,unclear,inhibitor/antagonist
+Folic acid,3,unclear,unclear
+Fostamatinib (disodium hexahydrate),2,Other TK inhibitor,inhibitor/antagonist
+Fulvestrant,2,unclear,inhibitor/antagonist
+Fumaric acid,2,unclear,inhibitor/antagonist
+Furosemide,3,unclear,inhibitor/antagonist
+Fusidic acid,3,unclear,inhibitor/antagonist
+Futibatinib,1,Other TK inhibitor,inhibitor/antagonist
+GSK1059615,1,PI3K/AKT inhibitor,inhibitor/antagonist
+Gallic acid,3,Cyclooxygenase inhibitor,inhibitor/antagonist
+Gallic acid (hydrate),3,Cyclooxygenase inhibitor,inhibitor/antagonist
+Gefitinib,2,EGFR/ERBB inhibitor,inhibitor/antagonist
+Gemcitabine,1,DNA synthesis/repair inhibitor,inhibitor/antagonist
+Gemfibrozil,3,unclear,unclear
+Glasdegib,2,Sonic inhibitor,inhibitor/antagonist
+Glycyrrhizic acid,4,unclear,inhibitor/antagonist
+Goserelin (acetate),3,unclear,activator/agonist
+HI-TOPK-032,1,unclear,inhibitor/antagonist
+Harringtonine,1,Protein synthesis inhibitor,unclear
+Hesperidin,2,unclear,unclear
+Hexylresorcinol,3,unclear,inhibitor/antagonist
+Homoharringtonine,1,Protein synthesis inhibitor,inhibitor/antagonist
+Hydroxyfasudil,1,unclear,inhibitor/antagonist
+Hydroxyurea,4,DNA synthesis/repair inhibitor,inhibitor/antagonist
+IQ 1,1,unclear,unclear
+Idarubicin (hydrochloride),1,DNA synthesis/repair inhibitor,inhibitor/antagonist
+Idoxuridine,2,DNA synthesis/repair inhibitor,unclear
+Imiquimod (hydrochloride),2,unclear,activator/agonist
+Imiquimod (maleate),4,unclear,activator/agonist
+Indacaterol (maleate),2,Adrenoceptor agonist,activator/agonist
+Infigratinib,1,Other TK inhibitor,inhibitor/antagonist
+Ipatasertib,1,PI3K/AKT inhibitor,inhibitor/antagonist
+Irinotecan,1,DNA synthesis/repair inhibitor,inhibitor/antagonist
+Irinotecan (hydrochloride),2,DNA synthesis/repair inhibitor,inhibitor/antagonist
+Isocorydine,3,unclear,unclear
+Ivabradine (hydrochloride),2,unclear,inhibitor/antagonist
+Ivermectin,2,unclear,unclear
+Ixazomib,1,Proteasome inhibitor,inhibitor/antagonist
+Ixazomib citrate,1,Proteasome inhibitor,inhibitor/antagonist
+L-Eflornithine (monohydrochloride),2,unclear,inhibitor/antagonist
+L-Thyroxine (sodium salt pentahydrate),3,unclear,unclear
+LB-100,1,unclear,inhibitor/antagonist
+LJI308,1,Other MAPK inhibitor,inhibitor/antagonist
+LY-2584702 (tosylate salt),1,MTOR inhibitor,inhibitor/antagonist
+LY2090314,1,GSK3 inhibitor,inhibitor/antagonist
+Lactate (calcium),2,unclear,unclear
+Lapatinib ditosylate,1,EGFR/ERBB inhibitor,inhibitor/antagonist
+Larotrectinib,3,Other TK inhibitor,inhibitor/antagonist
+Larotrectinib sulfate,2,Other TK inhibitor,inhibitor/antagonist
+Lenalidomide (hemihydrate),3,unclear,inhibitor/antagonist
+Levobupivacaine (hydrochloride),4,unclear,inhibitor/antagonist
+Lidocaine (hydrochloride),3,unclear,unclear
+Ligustrazine,4,unclear,unclear
+Lipoic acid,3,unclear,unclear
+Lonafarnib,1,RAS inhibitor,inhibitor/antagonist
+Loperamide (hydrochloride),2,unclear,unclear
+Lopinavir,2,unclear,inhibitor/antagonist
+Lucanthone,4,unclear,inhibitor/antagonist
+Lumateperone (tosylate),3,unclear,unclear
+MK-3903,1,unclear,activator/agonist
+MK-8353,1,Other MAPK inhibitor,inhibitor/antagonist
+ML264,1,unclear,inhibitor/antagonist
+Macitentan,4,unclear,inhibitor/antagonist
+Malotilate,2,unclear,inhibitor/antagonist
+Mebendazole,1,Microtubule inhibitor,inhibitor/antagonist
+Medroxyprogesterone acetate,3,unclear,unclear
+Megestrol,3,unclear,unclear
+Meloxicam,2,Cyclooxygenase inhibitor,inhibitor/antagonist
+Menadione,4,unclear,unclear
+Methotrexate,2,DNA synthesis/repair inhibitor,inhibitor/antagonist
+Methyl aminolevulinate (hydrochloride),2,unclear,unclear
+Methylprednisolone succinate,1,Glucocorticoid receptor agonist,unclear
+Methylthiouracil,2,unclear,unclear
+Mifepristone,4,unclear,inhibitor/antagonist
+Minodronic acid,1,unclear,inhibitor/antagonist
+Mitoxantrone (dihydrochloride),1,DNA synthesis/repair inhibitor,inhibitor/antagonist
+Monocrotaline,4,unclear,inhibitor/antagonist
+Mozavaptan,4,unclear,inhibitor/antagonist
+NG25,1,Other MAPK inhibitor,inhibitor/antagonist
+NVP-BHG712,1,unclear,inhibitor/antagonist
+Nafamostat (mesylate),2,unclear,inhibitor/antagonist
+Naproxen,2,Cyclooxygenase inhibitor,inhibitor/antagonist
+Neratinib,2,EGFR/ERBB inhibitor,inhibitor/antagonist
+Neratinib (maleate),1,EGFR/ERBB inhibitor,inhibitor/antagonist
+Nevirapine,4,unclear,inhibitor/antagonist
+Niclosamide (olamine),1,unclear,inhibitor/antagonist
+Nimesulide,2,Cyclooxygenase inhibitor,inhibitor/antagonist
+Norepinephrine (hydrochloride),3,Adrenoceptor agonist,activator/agonist
+OTS514,1,Other MAPK inhibitor,inhibitor/antagonist
+Olanzapine,3,unclear,inhibitor/antagonist
+Oleic acid,1,unclear,activator/agonist
+Omeprazole,2,unclear,inhibitor/antagonist
+Omeprazole (sodium),2,unclear,inhibitor/antagonist
+Orlistat,4,unclear,inhibitor/antagonist
+Ornidazole,2,unclear,unclear
+Osimertinib (mesylate),2,EGFR/ERBB inhibitor,inhibitor/antagonist
+Ouabain (Octahydrate),1,unclear,unclear
+Oxaliplatin,1,DNA synthesis/repair inhibitor,inhibitor/antagonist
+Oxaprozin,2,Cyclooxygenase inhibitor,inhibitor/antagonist
+PF-06260933,1,Other MAPK inhibitor,inhibitor/antagonist
+PH-797804,1,Other MAPK inhibitor,inhibitor/antagonist
+Paclitaxel,1,Microtubule inhibitor,unclear
+Palmatine (chloride),3,unclear,inhibitor/antagonist
+Panobinostat,1,HDAC inhibitor,inhibitor/antagonist
+Pasireotide (acetate),3,unclear,activator/agonist
+Pemetrexed,4,DNA synthesis/repair inhibitor,inhibitor/antagonist
+Pemigatinib,1,Other TK inhibitor,inhibitor/antagonist
+Penfluridol,4,unclear,inhibitor/antagonist
+Pentagastrin,3,unclear,inhibitor/antagonist
+Pentamidine (isethionate),3,unclear,inhibitor/antagonist
+Pentoxifylline,2,unclear,inhibitor/antagonist
+Peretinoin,1,Retinoic receptor agonist,unclear
+Perindopril (erbumine),2,unclear,inhibitor/antagonist
+Pexidartinib (hydrochloride),4,Multi-TK inhibitor,inhibitor/antagonist
+Phenylephrine (hydrochloride),2,Adrenoceptor agonist,activator/agonist
+Phenytoin (sodium),4,unclear,inhibitor/antagonist
+Pimitespib,1,unclear,inhibitor/antagonist
+Pimozide,2,unclear,inhibitor/antagonist
+Pioglitazone,2,unclear,activator/agonist
+Piroxicam,2,Cyclooxygenase inhibitor,inhibitor/antagonist
+Pitavastatin (Calcium),4,unclear,inhibitor/antagonist
+Plicamycin,2,unclear,inhibitor/antagonist
+Ponatinib,1,Multi-TK inhibitor,inhibitor/antagonist
+Posaconazole,4,unclear,unclear
+Pralsetinib,1,Other TK inhibitor,inhibitor/antagonist
+Pravastatin (sodium),2,unclear,inhibitor/antagonist
+Procainamide (hydrochloride),2,DNA methyltransferase inhibitor,inhibitor/antagonist
+Proglumide,2,unclear,inhibitor/antagonist
+Pyridoxine,3,unclear,unclear
+Pyridoxine (hydrochloride),3,unclear,unclear
+Quinestrol,3,unclear,unclear
+Quinidine (15% dihydroquinidine),4,unclear,inhibitor/antagonist
+RMC-6236,1,RAS inhibitor,inhibitor/antagonist
+Radotinib,3,Other TK inhibitor,inhibitor/antagonist
+Ralimetinib dimesylate,1,Other MAPK inhibitor,inhibitor/antagonist
+Raltitrexed,3,DNA synthesis/repair inhibitor,inhibitor/antagonist
+Ranolazine,2,unclear,inhibitor/antagonist
+Rapamycin,3,MTOR inhibitor,inhibitor/antagonist
+Regorafenib,1,Multi-TK inhibitor,inhibitor/antagonist
+Relugolix,3,unclear,inhibitor/antagonist
+Resveratrol,3,unclear,unclear
+Retinoic acid,3,Retinoic receptor agonist,activator/agonist
+Ribociclib,2,CDK inhibitor,inhibitor/antagonist
+Rifaximin,4,unclear,unclear
+Riluzole hydrochloride,3,unclear,inhibitor/antagonist
+Rimonabant,3,unclear,inhibitor/antagonist
+Rimonabant (Hydrochloride),2,unclear,inhibitor/antagonist
+Ritonavir,3,unclear,inhibitor/antagonist
+Ropivacaine (hydrochloride monohydrate),3,unclear,inhibitor/antagonist
+Rosiglitazone,4,unclear,unclear
+Roxadustat,4,unclear,inhibitor/antagonist
+Rucaparib (phosphate),4,DNA synthesis/repair inhibitor,inhibitor/antagonist
+Rutin (trihydrate),4,unclear,unclear
+S-Adenosyl-L-methionine (disulfate tosylate),3,unclear,unclear
+SBI-0640756,1,Protein synthesis inhibitor,inhibitor/antagonist
+Sacubitril/Valsartan,4,unclear,inhibitor/antagonist
+Salicylic acid,3,Cyclooxygenase inhibitor,inhibitor/antagonist
+Sapanisertib,1,MTOR inhibitor,inhibitor/antagonist
+Saquinavir,3,unclear,inhibitor/antagonist
+Selinexor,1,Unknown,Unknown
+Sildenafil,4,unclear,inhibitor/antagonist
+Silodosin,2,unclear,inhibitor/antagonist
+Simotinib,4,EGFR/ERBB inhibitor,inhibitor/antagonist
+Sinomenine,3,unclear,unclear
+Sivelestat (sodium tetrahydrate),4,unclear,inhibitor/antagonist
+Sodium Salicylate,3,Cyclooxygenase inhibitor,inhibitor/antagonist
+Sonidegib,1,Sonic inhibitor,inhibitor/antagonist
+Sulfatinib,2,Multi-TK inhibitor,inhibitor/antagonist
+Sulfisoxazole,3,unclear,inhibitor/antagonist
+Sunitinib,2,Multi-TK inhibitor,inhibitor/antagonist
+TAK-733,1,MEK inhibitor,inhibitor/antagonist
+TAK-901,1,unclear,inhibitor/antagonist
+Tadalafil,4,unclear,inhibitor/antagonist
+Talc,2,unclear,unclear
+Tazarotene,2,Retinoic receptor agonist,activator/agonist
+Temsirolimus,3,MTOR inhibitor,inhibitor/antagonist
+Temuterkib,1,Other MAPK inhibitor,inhibitor/antagonist
+Terfenadine,3,unclear,inhibitor/antagonist
+Tetracycline (hydrochloride),4,unclear,unclear
+Thymol,3,unclear,activator/agonist
+Thymopentin,4,unclear,unclear
+Tirabrutinib,4,Other TK inhibitor,inhibitor/antagonist
+Tirabrutinib (hydrochloride),2,Other TK inhibitor,inhibitor/antagonist
+Tofacitinib,3,JAK/STAT inhibitor,inhibitor/antagonist
+Tofacitinib (citrate),3,JAK/STAT inhibitor,inhibitor/antagonist
+Tolcapone,3,unclear,inhibitor/antagonist
+Tolmetin,4,Cyclooxygenase inhibitor,inhibitor/antagonist
+Tomivosertib,1,Protein synthesis inhibitor,inhibitor/antagonist
+Topotecan (hydrochloride),1,DNA synthesis/repair inhibitor,inhibitor/antagonist
+Torkinib,1,MTOR inhibitor,inhibitor/antagonist
+Trametinib,1,MEK inhibitor,inhibitor/antagonist
+Trametinib (DMSO_TF solvate),1,MEK inhibitor,inhibitor/antagonist
+Tranilast,4,unclear,inhibitor/antagonist
+Triamcinolone,3,Glucocorticoid receptor agonist,unclear
+Triclosan,3,unclear,inhibitor/antagonist
+Trifluridine,3,DNA synthesis/repair inhibitor,inhibitor/antagonist
+Trimetrexate,3,DNA synthesis/repair inhibitor,inhibitor/antagonist
+Tubulin inhibitor 6,1,Microtubule inhibitor,inhibitor/antagonist
+Tucatinib,1,EGFR/ERBB inhibitor,inhibitor/antagonist
+Tucidinostat,1,HDAC inhibitor,inhibitor/antagonist
+ULK-101,1,unclear,inhibitor/antagonist
+Uridine,2,unclear,unclear
+Valdecoxib,2,Cyclooxygenase inhibitor,inhibitor/antagonist
+Vandetanib,2,Multi-TK inhibitor,inhibitor/antagonist
+Vemurafenib,1,RAF inhibitor,inhibitor/antagonist
+Verapamil,4,unclear,inhibitor/antagonist
+Verteporfin,4,unclear,inhibitor/antagonist
+Vilanterol,3,Adrenoceptor agonist,activator/agonist
+Vinblastine (sulfate),3,Microtubule inhibitor,inhibitor/antagonist
+Vismodegib,2,Sonic inhibitor,inhibitor/antagonist
+Vitamin K4,2,unclear,unclear
+Volasertib,1,unclear,inhibitor/antagonist
+Voriconazole,2,unclear,inhibitor/antagonist
+Vortioxetine,2,unclear,unclear
+XRK3F2,1,unclear,inhibitor/antagonist
+Zileuton,2,unclear,inhibitor/antagonist
+c-Kit-IN-1,1,Multi-TK inhibitor,inhibitor/antagonist
+crizotinib,4,Multi-TK inhibitor,inhibitor/antagonist
+olaparib,1,DNA synthesis/repair inhibitor,unclear
+palbociclib,1,CDK inhibitor,inhibitor/antagonist
+venetoclax,1,unclear,inhibitor/antagonist
+vincristine,1,Microtubule inhibitor,inhibitor/antagonist
+γ-Oryzanol,2,DNA methyltransferase inhibitor,inhibitor/antagonist

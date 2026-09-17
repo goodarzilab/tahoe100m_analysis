@@ -1,0 +1,33 @@
+# Versions used to produce the released metrics AnnData.
+#
+# Only the packages that can move numbers are pinned. leidenalg and igraph
+# together determine whether the SNF clustering reproduces for a given seed,
+# which is why reference/snf_clusters.csv holds the cluster labels.
+#
+# pertpy is needed only by metrics/augur.py, and R only by
+# metrics/heterogeneity_ratio.R (arrow, dplyr, stringr).
+name: tahoe100m
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - numpy=2.2
+  - pandas=2.3
+  - scipy=1.16
+  - scikit-learn=1.7
+  - statsmodels=0.14
+  - anndata=0.12
+  - scanpy=1.11
+  - leidenalg=0.11
+  - python-igraph=1.0
+  - matplotlib=3.10
+  - seaborn=0.13
+  - pyarrow=24.0
+  - h5py=3.15
+  - tqdm
+  - pip
+  - pip:
+      - snfpy==0.2.2
+      - huggingface_hub>=1.0
+      # - pertpy          # metrics/augur.py only

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Tahoe-100M drug perturbation analysis"
+abstract: >-
+  Analysis code for the Tahoe-100M single-cell drug perturbation study:
+  per (cell line, drug, dose) phenotypic metrics, similarity network fusion
+  clustering over those metrics, and pseudobulk signature reproducibility.
+authors:
+  - family-names: Subramanyam
+    given-names: Vishvak
+    affiliation: "Arc Institute"
+license: MIT
+repository-code: "https://github.com/goodarzilab/tahoe100m_analysis"
+# Concept DOI: resolves to the latest archived version of this repository.
+doi: 10.5281/zenodo.21864540
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21864540
+    description: "Zenodo archive of this repository (all versions)"
+# Add `preferred-citation` for the paper once it has a DOI.

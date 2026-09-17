@@ -1,0 +1,380 @@
+﻿drug,targets,mutations,moa-broad,moa-fine,human-approved,clinical-trials,gpt-notes-approval
+(R)-Verapamil (hydrochloride),ABCB1,n/a,inhibitor/antagonist,unclear,no,yes,"Racemic verapamil is approved, but not specifically (R)-enantiomer alone."
+(S)-Crizotinib,NUDT1,n/a,inhibitor/antagonist,unclear,no,yes,"Racemic mixture Crizotinib is approved, not specific enantiomer."
+18β-Glycyrrhetinic acid,none,n/a,unclear,unclear,no,yes,"Used in cosmetics, derived from licorice root, no approval for human drugs."
+4EGI-1,EIF4E,n/a,inhibitor/antagonist,Protein synthesis inhibitor,no,no,No clinical trials found for 4EGI-1 on clinicaltrials.gov.
+5-Azacytidine,DNMT1,n/a,inhibitor/antagonist,DNA methyltransferase inhibitor,yes,yes,"Approved for use in specific cancers, such as myelodysplastic syndromes."
+5-Fluorouracil,TYMS,n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,yes,yes,Widely used chemotherapy drug. Approved for cancer treatment.
+8-Hydroxyquinoline,none,n/a,unclear,unclear,no,yes,"Used in some clinical trial formulations, not approved as standalone drug."
+9-ING-41,GSK3B,n/a,inhibitor/antagonist,GSK3 inhibitor,no,yes,"Investigational drug, not approved for human use yet."
+Abemaciclib,"CDK4, CDK6",n/a,inhibitor/antagonist,CDK inhibitor,yes,yes,"FDA approved for HR-positive, HER2-negative breast cancer."
+Abiraterone acetate,CYP17A1,n/a,inhibitor/antagonist,unclear,yes,yes,Approved for prostate cancer treatment.
+Acetazolamide,none,n/a,inhibitor/antagonist,unclear,yes,yes,"Used to treat glaucoma, epilepsy, and altitude sickness since 1950s."
+Acetohexamide,none,n/a,activator/agonist,unclear,yes,yes,"First-generation sulfonylurea, used for type 2 diabetes treatment."
+Adagrasib,KRAS,KRASG12C,inhibitor/antagonist,RAS inhibitor,yes,yes,Approved for treating KRAS G12C-mutated non-small cell lung cancer.
+Adenine,none,n/a,unclear,unclear,no,no,Commonly found in supplements; not a drug approved by itself.
+Adenosine,"ADORA1, ADORA2A, ADORA2B, ADORA3",n/a,unclear,unclear,yes,yes,Used for certain arrhythmias; approved as a drug.
+Afatinib,"EGFR, ERBB2","EGFRL858R, EGFRT790M/L858R",inhibitor/antagonist,EGFR/ERBB inhibitor,yes,yes,"Approved for treatment of certain cancers, such as non-small cell lung cancer."
+Aliskiren,REN,n/a,inhibitor/antagonist,unclear,yes,yes,Renin inhibitor for hypertension. Approved in the US and EU.
+Allantoin,none,n/a,unclear,unclear,yes,yes,Allantoin is approved as a skin protectant by the FDA.
+Allopurinol,XDH,n/a,inhibitor/antagonist,unclear,yes,yes,"Approved for gout treatment, reduces uric acid levels."
+Almonertinib (hydrochloride),EGFR,"EGFRT790M, EGFRT790M/L858R, EGFRdel19T790M",inhibitor/antagonist,EGFR/ERBB inhibitor,yes,yes,Approved in China for non-small cell lung cancer.
+Almonertinib (mesylate),EGFR,"EGFRT790M, EGFRT790M/L858R, EGFRdel19T790M",inhibitor/antagonist,EGFR/ERBB inhibitor,yes,yes,Approved in China for NSCLC treatment.
+Alpelisib,PIK3CA,"PIK3CAH1047R, PIK3CAE545K",inhibitor/antagonist,PI3K/AKT inhibitor,yes,yes,Approved for HR+/HER2- advanced breast cancer in combination with fulvestrant.
+Altretamine,none,n/a,unclear,DNA synthesis/repair inhibitor,yes,yes,Used as a chemotherapy drug for ovarian cancer.
+Amsacrine,TOP2A,n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,yes,yes,Used in the treatment of acute leukemias.
+Anastrozole,CYP19A1,n/a,inhibitor/antagonist,unclear,yes,yes,Used to treat breast cancer in postmenopausal women.
+Anethole trithione,none,n/a,unclear,unclear,no,yes,Investigated for dry mouth in clinical trials.
+Apalutamide,AR,n/a,inhibitor/antagonist,Androgen receptor antagonist,yes,yes,Used for non-metastatic castration-resistant prostate cancer.
+Aprepitant,TACR1,n/a,inhibitor/antagonist,unclear,yes,yes,Aprepitant is approved for preventing chemotherapy-induced nausea and vomiting.
+APTO-253,"MYC, KLF4",n/a,unclear,unclear,no,yes,"Investigated for cancer, but development discontinued."
+Arbutin,"MYC, KLF4",n/a,inhibitor/antagonist,unclear,no,yes,"Used in cosmetics, trials for skin-lightening, not approved as a drug."
+Artemether,none,n/a,unclear,unclear,yes,yes,Artemether is used in combination with lumefantrine to treat malaria.
+Artesunate,none,n/a,inhibitor/antagonist,JAK/STAT inhibitor,yes,yes,"Used for severe malaria, often partnered with other antimalarial drugs."
+Asciminib,ABL1,n/a,inhibitor/antagonist,Other TK inhibitor,yes,yes,Approved for chronic myeloid leukemia (CML) treatment.
+Aspirin,"PTGS1, PTGS2",n/a,inhibitor/antagonist,Cyclooxygenase inhibitor,yes,yes,Used widely for pain relief and anti-inflammatory purposes.
+AT7519,"CDK2, CDK4, CDK5, CDK6, CDK9, CDK1, CDK7, GSK3B",n/a,inhibitor/antagonist,CDK inhibitor,no,yes,Tested in trials for cancer treatments.
+Ataluren,CFTR,CFTRG542X,inhibitor/antagonist,unclear,yes,yes,For Duchenne muscular dystrophy with specific genetic mutation.
+Atazanavir (sulfate),CYP3A4,n/a,inhibitor/antagonist,unclear,yes,yes,"Antiretroviral, approved for HIV treatment."
+Auranofin,"TXNRD1, TXNRD2",n/a,inhibitor/antagonist,unclear,yes,yes,Approved for rheumatoid arthritis treatment since 1985.
+AZD-7648,PRKDC,n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,no,yes,"Inhibitor studied for DNA repair, not yet approved for human use."
+AZD-8055,MTOR,n/a,inhibitor/antagonist,MTOR inhibitor,no,yes,Investigational drug; explored in trials mainly for cancer treatment.
+AZD1390,ATM,n/a,inhibitor/antagonist,unclear,no,yes,"Investigational ATM kinase inhibitor in clinical trials, not approved for human use."
+AZD2858,"GSK3B, GSK3A",n/a,inhibitor/antagonist,GSK3 inhibitor,no,no,Investigated in rodent models.
+Azithromycin (hydrate),none,n/a,unclear,unclear,yes,yes,Approved as an antibiotic for bacterial infections.
+Baicalin,none,n/a,activator/agonist,unclear,no,yes,"Used in traditional medicine, researched for various pharmacological effects."
+Balsalazide (sodium hydrate),"IL6, STAT3",n/a,unclear,JAK/STAT inhibitor,yes,yes,Used for ulcerative colitis treatment in humans.
+BAY1125976,"AKT1, AKT2, AKT3",n/a,inhibitor/antagonist,PI3K/AKT inhibitor,no,yes,Cancer treatment trials but not approved for human use.
+Belinostat,HDAC6,n/a,inhibitor/antagonist,HDAC inhibitor,yes,yes,Approved for relapsed/refractory peripheral T-cell lymphoma.
+Belumosudil,"ROCK2, ROCK1",n/a,inhibitor/antagonist,unclear,yes,yes,Approved for chronic graft-versus-host disease in the US.
+Belumosudil (mesylate),"ROCK2, ROCK1",n/a,inhibitor/antagonist,unclear,yes,yes,Approved for chronic graft-versus-host disease.
+Belzutifan,EPAS1,n/a,inhibitor/antagonist,unclear,yes,yes,Approved for treating certain cancer types.
+Bendamustine,none,n/a,unclear,DNA synthesis/repair inhibitor,yes,yes,Approved for use in leukemia and lymphoma treatment.
+Benproperine (phosphate),ARPC2,n/a,inhibitor/antagonist,unclear,yes,yes,Studied as a cough suppressant; not widely approved.
+Bentamapimod,"MAPK8, MAPK9, MAPK10",n/a,inhibitor/antagonist,Other MAPK inhibitor,no,yes,Investigated for ovarian cancer; not approved for human use.
+Benztropine (mesylate),none,n/a,inhibitor/antagonist,unclear,yes,yes,Used for Parkinson's disease and drug-induced extrapyramidal symptoms.
+Berbamine,CACNA1C,n/a,inhibitor/antagonist,unclear,no,no,"Studied for cancer treatment, but not approved for human use yet."
+Berbamine (dihydrochloride),none,n/a,inhibitor/antagonist,unclear,no,no,No clinical trial data found on clinicaltrials.gov.
+Berberine (chloride hydrate),none,n/a,unclear,unclear,no,yes,"Used in trials for metabolic/heart diseases, not FDA-approved."
+Bergenin,none,n/a,unclear,unclear,no,yes,Investigated for anti-inflammatory and antiulcer effects in clinical trials.
+Bestatin,ANPEP,n/a,inhibitor/antagonist,unclear,no,yes,Studied in trials; not approved for human therapeutic use.
+Bestatin (hydrochloride),none,n/a,inhibitor/antagonist,unclear,no,yes,Investigated in clinical trials but not approved for human use.
+Betamethasone dipropionate,NR3C1,n/a,activator/agonist,Glucocorticoid receptor agonist,yes,yes,A corticosteroid approved and used in topical formulations for inflammation.
+Bexarotene,"RXRA, RXRB, RXRG",n/a,activator/agonist,Retinoic receptor agonist,yes,yes,Approved for treating cutaneous T-cell lymphoma.
+BI-3406,"KRAS, SOS1",n/a,inhibitor/antagonist,RAS inhibitor,no,yes,"Investigational compound, clinical trials for KRAS-driven cancers."
+BI-78D3,none,n/a,inhibitor/antagonist,Other MAPK inhibitor,no,yes,"Investigated for Alzheimer's and inflammatory diseases, not approved for human use."
+Bicalutamide,AR,n/a,inhibitor/antagonist,Androgen receptor antagonist,yes,yes,Approved as antiandrogen for prostate cancer treatment.
+Bimatoprost,none,n/a,unclear,unclear,yes,yes,Approved for treating glaucoma and cosmetic lash applications.
+Bimiralisib,"PIK3CA, PIK3CB, MTOR","PIK3CAH1047R, PIK3CAE542K, PIK3CAE545K",inhibitor/antagonist,PI3K/AKT inhibitor,no,yes,Investigational PI3K/mTOR inhibitor; not approved for human use as of 2023.
+Binimetinib,"MAP2K1, MAP2K2",n/a,inhibitor/antagonist,MEK inhibitor,no,yes,"Investigated for cancer, not approved for human use."
+Bisoprolol (hemifumarate),ADRB1,n/a,inhibitor/antagonist,Adrenoceptor agonist,yes,yes,"Approved for hypertension, heart failure, and angina."
+Bortezomib,PSMB5,n/a,inhibitor/antagonist,Proteasome inhibitor,yes,yes,Approved for multiple myeloma and mantle cell lymphoma.
+Bosentan (hydrate),"EDNRA, EDNRB",n/a,inhibitor/antagonist,unclear,yes,yes,Approved for treating pulmonary arterial hypertension.
+Brimonidine,"ADRA2A, ADRA2B, ADRA2C",n/a,activator/agonist,Adrenoceptor agonist,yes,yes,Used in the form of brimonidine tartrate for glaucoma treatment.
+Brivudine,none,n/a,unclear,unclear,yes,yes,"Approved in Europe, not widely used in the US."
+Budesonide,NR3C1,n/a,activator/agonist,Glucocorticoid receptor agonist,yes,yes,"Used for asthma, Crohn's disease, ulcerative colitis."
+Busulfan,none,n/a,unclear,DNA synthesis/repair inhibitor,yes,yes,Approved for use in bone marrow transplantation.
+c-Kit-IN-1,"KIT, MET, KDR, PDGFRA, PDGFRB",n/a,inhibitor/antagonist,Multi-TK inhibitor,no,no,Experimental compound with no clinical trials reported.
+Cabozantinib (S-malate),"MET, KDR, AXL",n/a,inhibitor/antagonist,Multi-TK inhibitor,yes,yes,Approved for medullary thyroid cancer and renal cell carcinoma.
+Canagliflozin,SLC5A2,n/a,inhibitor/antagonist,Glucose transporter inhibitor,yes,yes,Approved for type 2 diabetes treatment.
+Canagliflozin (hemihydrate),SLC5A2,n/a,inhibitor/antagonist,Glucose transporter inhibitor,yes,yes,Approved for type 2 diabetes.
+Capivasertib,"AKT1, AKT2, AKT3, RPS6KB1, PRKACA, ROCK2, ROCK1",n/a,inhibitor/antagonist,PI3K/AKT inhibitor,no,yes,In clinical trials for cancer. Not yet approved for human use.
+Capmatinib,MET,n/a,inhibitor/antagonist,EGFR/ERBB inhibitor,yes,yes,Approved for NSCLC treatment by FDA in May 2020.
+Captopril,ACE,n/a,inhibitor/antagonist,unclear,yes,yes,First ACE inhibitor approved for hypertension and heart failure.
+Carbamazepine,none,n/a,inhibitor/antagonist,HDAC inhibitor,yes,yes,Used for epilepsy and neuropathic pain.
+Carbidopa (monohydrate),AHR,n/a,inhibitor/antagonist,unclear,yes,yes,Used in combination with levodopa for Parkinson's treatment.
+Celecoxib,PTGS2,n/a,inhibitor/antagonist,Cyclooxygenase inhibitor,yes,yes,Used for arthritis pain and inflammation; approved NSAID.
+Cepharanthine,"CYP3A4, CYP2E1, CYP2C9",n/a,inhibitor/antagonist,unclear,no,yes,Studied for cancer and viral diseases; not approved for human use yet.
+Chlorhexidine (diacetate),none,n/a,unclear,unclear,yes,yes,Used as antiseptic and disinfectant. Approved for human use.
+Ciclopirox,none,n/a,unclear,unclear,yes,yes,"Approved for antifungal use, primarily in nail and skin treatments."
+Cilostazol,PDE3A,n/a,inhibitor/antagonist,unclear,yes,yes,Used to treat intermittent claudication associated with peripheral artery disease.
+Cinacalcet,CASR,n/a,activator/agonist,unclear,yes,yes,Used to treat secondary hyperparathyroidism and parathyroid carcinoma.
+Citalopram (hydrobromide),SLC6A4,n/a,inhibitor/antagonist,unclear,yes,yes,Approved antidepressant; selective serotonin reuptake inhibitor (SSRI).
+Clobetasol propionate,"CYP3A5,CYP3A4",n/a,inhibitor/antagonist,unclear,yes,yes,It's a potent corticosteroid for skin conditions.
+Clofarabine,none,n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,yes,yes,Approved for leukemia treatment in pediatric patients.
+Clonidine (hydrochloride),"ADRA2A, ADRA2B, ADRA2C",n/a,activator/agonist,Adrenoceptor agonist,yes,yes,Used for hypertension and ADHD among other conditions.
+Clopidogrel,P2RY12,n/a,inhibitor/antagonist,unclear,yes,yes,"Antiplatelet drug approved for preventing stroke, heart attack in high-risk patients."
+Clotrimazole,"CYP2A6, CYP51A1",n/a,inhibitor/antagonist,unclear,yes,yes,Antifungal used in topical and oral preparations.
+Cloxacillin (sodium),none,n/a,inhibitor/antagonist,unclear,yes,yes,Approved as a penicillinase-resistant antibiotic for human use.
+Cobimetinib,MAP2K1,n/a,inhibitor/antagonist,MEK inhibitor,yes,yes,Approved for melanoma in combination with vemurafenib.
+CP21R7,"GSK3B, PRKCA",n/a,inhibitor/antagonist,GSK3 inhibitor,no,yes,Investigational drug in research for neurodegenerative diseases.
+crizotinib,"ALK, MET, ROS1",n/a,inhibitor/antagonist,Multi-TK inhibitor,yes,yes,Approved for NSCLC treatment.
+Crizotinib (hydrochloride),"ALK, MET, ROS1",n/a,inhibitor/antagonist,Multi-TK inhibitor,yes,yes,Approved for ALK-positive NSCLC treatment.
+Cyclosporin A,"PPP3CA, PPP3CB, PPP3CC",n/a,inhibitor/antagonist,unclear,yes,yes,Immunosuppressant approved for organ transplant patients.
+Cysteamine (hydrochloride),none,n/a,unclear,unclear,yes,yes,FDA-approved for cystinosis treatment.
+Cytarabine,none,n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,yes,yes,Used in chemotherapy for leukemia and other cancers.
+Cytarabine (hydrochloride),none,n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,yes,yes,Used in chemotherapy for leukemia and lymphoma.
+Dabrafenib,"BRAF, RAF1",BRAFV600E,inhibitor/antagonist,RAF inhibitor,yes,yes,Approved for melanoma treatment.
+Daidzin,ALDH2,n/a,inhibitor/antagonist,unclear,no,yes,investigated for alcoholism; not approved for treatment
+Dapagliflozin,SLC5A2,n/a,inhibitor/antagonist,Glucose transporter inhibitor,yes,yes,Approved for diabetes treatment.
+"Dapagliflozin ((2S)-1,2-propanediol, hydrate)",SLC5A2,n/a,inhibitor/antagonist,Glucose transporter inhibitor,yes,yes,Approved SGLT2 inhibitor for type 2 diabetes and heart failure.
+Daptomycin,none,n/a,unclear,unclear,yes,yes,Approved as an antibiotic for skin infections.
+Darinaparsin,none,n/a,unclear,unclear,no,yes,Used in clinical trials for certain cancers only.
+Darolutamide,AR,n/a,inhibitor/antagonist,Androgen receptor antagonist,yes,yes,Approved for treating non-metastatic castration-resistant prostate cancer.
+Decitabine,"DNMT1, DNMT3A, DNMT3B",n/a,inhibitor/antagonist,DNA methyltransferase inhibitor,yes,yes,Approved for treatment of myelodysplastic syndromes and acute myeloid leukemia.
+Delamanid,none,n/a,inhibitor/antagonist,unclear,yes,yes,Approved for MDR-TB treatment.
+Demeclocycline,none,n/a,inhibitor/antagonist,unclear,yes,yes,"Used off-label for SIADH, primarily an antibiotic."
+Dexamethasone,NR3C1,n/a,activator/agonist,Glucocorticoid receptor agonist,yes,yes,Commonly used glucocorticoid for inflammation and immune response regulation.
+Dexmedetomidine,"ADRA2A, ADRA2B, ADRA2C",n/a,activator/agonist,Adrenoceptor agonist,yes,yes,Approved as sedative and analgesic.
+Diammonium Glycyrrhizinate,none,n/a,unclear,unclear,no,yes,Used in trials for hepatitis. Not approved for general human use.
+Digitoxin,none,n/a,unclear,unclear,no,yes,"Clinical trials for certain conditions, but not FDA approved for human use."
+Dihydroartemisinin,none,n/a,unclear,unclear,yes,yes,"Active metabolite of artemisinin, approved for malaria treatment."
+Dimethyl fumarate,NFE2L2,n/a,activator/agonist,unclear,yes,yes,Approved for multiple sclerosis treatment.
+Dinaciclib,"CDK1, CDK2, CDK5, CDK9",n/a,inhibitor/antagonist,CDK inhibitor,no,yes,Investigated in trials; not yet approved for human use.
+Diphenhydramine,HRH1,n/a,inhibitor/antagonist,unclear,yes,yes,"Approved antihistamine, used for allergies and as a sleep aid."
+Docetaxel,none,n/a,inhibitor/antagonist,Microtubule inhibitor,yes,yes,"Approved anticancer drug, often used in chemotherapy treatments."
+Docetaxel (Trihydrate),"TUBB1, TUBB3, TUBB4B, TUBB4A, TUBB2A, TUBB2B",n/a,unclear,Microtubule inhibitor,yes,yes,"Approved cancer treatment, commonly used in chemotherapy."
+Dorzolamide (hydrochloride),CA2,n/a,inhibitor/antagonist,unclear,yes,yes,Approved for glaucoma treatment.
+Doxorubicin (hydrochloride),"TOP2A, TOP2B, TOP1",n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,yes,yes,Commonly used chemotherapy drug for several cancers.
+Doxycycline (monohydrate),"MMP7, MMP8, MMP9, MMP13, MMP14",n/a,inhibitor/antagonist,unclear,yes,yes,Approved antibiotic for bacterial infections.
+Drospirenone,none,n/a,unclear,unclear,yes,yes,"Found in birth control, often combined with ethinyl estradiol."
+DT-061,none,n/a,activator/agonist,unclear,no,yes,"Investigated for oncology, no approval yet for human use."
+DTP3,none,n/a,inhibitor/antagonist,unclear,no,yes,Currently being investigated in clinical trials in the UK.
+Econazole,none,n/a,unclear,unclear,yes,yes,Antifungal approved for dermatological use.
+Edoxaban (tosylate monohydrate),F10,n/a,inhibitor/antagonist,unclear,yes,yes,Approved as an anticoagulant for preventing stroke and blood clots.
+Elagolix sodium,GNRHR,n/a,inhibitor/antagonist,unclear,yes,yes,Approved for endometriosis pain in women.
+Elimusertib hydrochloride,ATR,n/a,inhibitor/antagonist,unclear,no,yes,Tested in trials for cancer but not approved for human use.
+Encorafenib,BRAF,BRAFV600E,inhibitor/antagonist,RAF inhibitor,yes,yes,Approved for use in BRAF-mutant melanoma.
+Entecavir (monohydrate),none,n/a,unclear,unclear,yes,yes,Approved for treating hepatitis B infection.
+Entrectinib,"NTRK1, NTRK2, NTRK3, ROS1, ALK",n/a,inhibitor/antagonist,Other TK inhibitor,yes,yes,Approved for use in cancers with NTRK gene fusions.
+Epirubicin (hydrochloride),TOP2A,n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,yes,yes,Used in chemotherapies as single agent or in combination treatments.
+Eplerenone,NR3C2,n/a,inhibitor/antagonist,unclear,yes,yes,Used to treat heart failure and hypertension.
+Erdafitinib,"FGFR1, FGFR2, FGFR3, FGFR4",n/a,inhibitor/antagonist,Other TK inhibitor,yes,yes,Approved for bladder cancer treatment.
+ERK5-IN-2,MAPK7,n/a,inhibitor/antagonist,Other MAPK inhibitor,no,no,Not found in clinicaltrials.gov database as of the latest available data.
+Erlotinib,EGFR,n/a,inhibitor/antagonist,EGFR/ERBB inhibitor,yes,yes,Approved for human use for non-small cell lung cancer.
+Erythromycin,none,n/a,inhibitor/antagonist,unclear,yes,yes,Antibiotic used to treat infections; approved for human use.
+Esmolol (hydrochloride),ADRB1,n/a,inhibitor/antagonist,unclear,yes,yes,Used as a beta-1 blocker for acute heart issues.
+Estrone sulfate (potassium),none,n/a,unclear,unclear,no,yes,Estrone sulfate used in hormone therapy; potassium salt not specifically approved.
+ETC-206,none,n/a,inhibitor/antagonist,Protein synthesis inhibitor,no,yes,"Investigational drug for cancer, not yet approved for human use."
+Everolimus,"MTOR, FKBP1A",n/a,inhibitor/antagonist,MTOR inhibitor,yes,yes,"Approved for certain types of cancer, organ transplantation, and tuberous sclerosis."
+EX229,PRKAA1,n/a,activator/agonist,unclear,no,no,No clinical trial information found on clinicaltrials.gov.
+Fedratinib (hydrochloride hydrate),"JAK2, FLT3, RET",JAK2V617F,inhibitor/antagonist,JAK/STAT inhibitor,yes,yes,Approved for treatment of myelofibrosis.
+Fenofibrate,"CYP2C19, CYP2B6, CYP2C9, CYP2C8, CYP3A4, PPARA",n/a,unclear,unclear,yes,yes,Fenofibrate is approved for human use in treating hypercholesterolemia.
+Ferulic acid,"FGFR1, FGFR2",n/a,inhibitor/antagonist,Other TK inhibitor,no,yes,Used in skincare; not an FDA-approved drug.
+Filgotinib,"JAK1, JAK2, TYK2, JAK3",n/a,inhibitor/antagonist,JAK/STAT inhibitor,yes,yes,Approved in Japan and EU for rheumatoid arthritis.
+Finasteride,SRD5A2,n/a,inhibitor/antagonist,unclear,yes,yes,Used for benign prostatic hyperplasia and male pattern baldness.
+Fingolimod (hydrochloride),PAK1,n/a,unclear,unclear,yes,yes,Approved for multiple sclerosis treatment.
+Flumatinib (mesylate),ABL1,n/a,inhibitor/antagonist,Other TK inhibitor,no,yes,Used in trials for chronic myeloid leukemia.
+Flutamide,AR,n/a,inhibitor/antagonist,Androgen receptor antagonist,yes,yes,Used to treat prostate cancer as an antiandrogen.
+Fluvoxamine,SLC6A4,n/a,unclear,unclear,yes,yes,SSRI approved for treating OCD and depression.
+Fluvoxamine (maleate),none,n/a,inhibitor/antagonist,unclear,yes,yes,Approved for treating OCD and depression-related disorders in humans.
+Folic acid,none,n/a,unclear,unclear,yes,yes,Widely used as a dietary supplement and in fortified foods.
+Fostamatinib (disodium hexahydrate),"SYK, FLT3, LYN, LCK",n/a,inhibitor/antagonist,Other TK inhibitor,yes,yes,Approved for treatment of chronic immune thrombocytopenia in adults.
+Fulvestrant,ESR1,n/a,inhibitor/antagonist,unclear,yes,yes,Estrogen receptor antagonist used for hormone receptor-positive breast cancer.
+Fumaric acid,none,n/a,inhibitor/antagonist,unclear,yes,yes,Used in psoriasis treatment as part of fumaric acid esters.
+Furosemide,"SLC12A1, SLC12A2",n/a,inhibitor/antagonist,unclear,yes,yes,"Widely used diuretic, approved for various conditions like hypertension and edema."
+Fusidic acid,none,n/a,inhibitor/antagonist,unclear,yes,yes,Used topically and orally for bacterial infections.
+Futibatinib,"FGFR1, FGFR2, FGFR3, FGFR4","FGFR2V5651, FGFR2N550H, FGFR2E566G",inhibitor/antagonist,Other TK inhibitor,yes,yes,Used for cholangiocarcinoma; FDA approved.
+Gallic acid,none,n/a,inhibitor/antagonist,Cyclooxygenase inhibitor,no,yes,"Used in supplements, studied for antioxidant properties."
+Gallic acid (hydrate),none,n/a,inhibitor/antagonist,Cyclooxygenase inhibitor,no,yes,Evaluated in trials but not approved as a standalone drug.
+Gefitinib,EGFR,n/a,inhibitor/antagonist,EGFR/ERBB inhibitor,yes,yes,Approved for non-small cell lung cancer.
+Gemcitabine,none,n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,yes,yes,Approved for cancer treatment like pancreatic and non-small cell lung cancer.
+Gemfibrozil,"PPARA, CYP2C9, CYP2C19, CYP2C8, CYP1A2",n/a,unclear,unclear,yes,yes,Approved for dyslipidemia treatment.
+Glasdegib,SMO,n/a,inhibitor/antagonist,Sonic inhibitor,yes,yes,Glasdegib is approved for acute myeloid leukemia.
+Glycyrrhizic acid,none,n/a,inhibitor/antagonist,unclear,no,yes,"Tested for therapeutic effects, not approved for human use."
+Goserelin (acetate),GNRHR,n/a,activator/agonist,unclear,yes,yes,It's approved for prostate and breast cancer treatment.
+GSK1059615,"PIK3CA, PIK3CB, PIK3CD, PIK3CG, MTOR",n/a,inhibitor/antagonist,PI3K/AKT inhibitor,no,yes,"Investigated in trials, not approved for human use."
+Harringtonine,none,n/a,unclear,Protein synthesis inhibitor,no,yes,"Investigated in trials mainly for cancer treatment, often used as basis for derivatives."
+Hesperidin,none,n/a,unclear,unclear,no,yes,"Studied for various health benefits, but not approved as a drug."
+Hexylresorcinol,none,n/a,inhibitor/antagonist,unclear,yes,yes,Used in throat lozenges and skin creams for antiseptic purposes.
+HI-TOPK-032,PBK,n/a,inhibitor/antagonist,unclear,no,no,No results found on clinicaltrials.gov.
+Homoharringtonine,none,n/a,inhibitor/antagonist,Protein synthesis inhibitor,yes,yes,"Used in leukemia treatment, also known as Omacetaxine."
+Hydroxyfasudil,"ROCK1, ROCK2, PRKACA",n/a,inhibitor/antagonist,unclear,no,yes,"Studied for therapeutic potential; derivative of fasudil, which is approved."
+Hydroxyurea,"RRM2, RRM1",n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,yes,yes,Approved for sickle cell anemia and certain cancers.
+Idarubicin (hydrochloride),TOP2A,n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,yes,yes,Used in acute myeloid leukemia treatment.
+Idoxuridine,none,n/a,unclear,DNA synthesis/repair inhibitor,yes,yes,Used as topical antiviral in eye infections. Approved for human use.
+Imiquimod (hydrochloride),TLR7,n/a,activator/agonist,unclear,yes,yes,Approved for topical treatment of skin conditions like actinic keratosis.
+Imiquimod (maleate),TLR7,n/a,activator/agonist,unclear,yes,yes,"Approved for skin conditions; imiquimod itself, not specifically maleate salt."
+Indacaterol (maleate),ADRB2,n/a,activator/agonist,Adrenoceptor agonist,yes,yes,Approved for COPD as a long-acting bronchodilator.
+Infigratinib,"FGFR1, FGFR2, FGFR3, FGFR4",n/a,inhibitor/antagonist,Other TK inhibitor,yes,yes,Used for bile duct cancer treatment.
+Ipatasertib,"AKT1, AKT2, AKT3",n/a,inhibitor/antagonist,PI3K/AKT inhibitor,no,yes,"Investigational cancer drug, not approved for human use."
+IQ 1,none,n/a,unclear,unclear,no,yes,Investigational drug; not approved for human use yet.
+Irinotecan,TOP1,n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,yes,yes,"Used in cancer treatment, especially for colorectal cancer."
+Irinotecan (hydrochloride),TOP1,n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,yes,yes,Approved for cancer treatment as a topoisomerase inhibitor.
+Isocorydine,none,n/a,unclear,unclear,no,no,No clinical trials found on clinicaltrials.gov
+Ivabradine (hydrochloride),HCN4,n/a,inhibitor/antagonist,unclear,yes,yes,"Approved for human use, primarily for heart failure and angina management."
+Ivermectin,none,n/a,unclear,unclear,yes,yes,Approved for infections in humans and animals.
+Ixazomib,PSMB5,n/a,inhibitor/antagonist,Proteasome inhibitor,yes,yes,Approved for multiple myeloma treatment.
+Ixazomib citrate,"PSMB1, PSMB2, PSMB5",n/a,inhibitor/antagonist,Proteasome inhibitor,yes,yes,Approved for multiple myeloma treatment as part of a combination therapy.
+L-Eflornithine (monohydrochloride),ODC1,n/a,inhibitor/antagonist,unclear,yes,yes,Used to treat sleeping sickness. Approved for human use.
+L-Thyroxine (sodium salt pentahydrate),none,n/a,unclear,unclear,yes,yes,"Approved for hypothyroidism, a form of standard thyroid hormone replacement therapy."
+Lactate (calcium),none,n/a,unclear,unclear,yes,yes,"Used in medical settings, but not specifically approved as a standalone drug."
+Lapatinib ditosylate,"EGFR, ERBB2",n/a,inhibitor/antagonist,EGFR/ERBB inhibitor,yes,yes,Approved for use in breast cancer treatment.
+Larotrectinib,"NTRK1, NTRK2, NTRK3",n/a,inhibitor/antagonist,Other TK inhibitor,yes,yes,Approved specifically as a cancer treatment for tumors with NTRK gene fusions.
+Larotrectinib sulfate,"NTRK1, NTRK2, NTRK3",n/a,inhibitor/antagonist,Other TK inhibitor,yes,yes,Larotrectinib sulfate is approved to treat TRK fusion-positive cancers.
+LB-100,"PPP2CA, PPP2CB",n/a,inhibitor/antagonist,unclear,no,yes,LB-100 is in clinical trials for cancer treatment.
+Lenalidomide (hemihydrate),"CRBN, IKZF1, IKZF3",n/a,inhibitor/antagonist,unclear,yes,yes,Approved for multiple myeloma and other conditions.
+Levobupivacaine (hydrochloride),SCN5A,n/a,inhibitor/antagonist,unclear,yes,yes,Approved as an enantiomer of bupivacaine for anesthetic use.
+Lidocaine (hydrochloride),"MAP2K1, MAPK1, NFKB1",n/a,unclear,unclear,yes,yes,Lidocaine hydrochloride is approved as a local anesthetic.
+Ligustrazine,none,n/a,unclear,unclear,no,yes,"Mainly used in traditional Chinese medicine, limited human trials exist."
+Lipoic acid,none,n/a,unclear,unclear,yes,yes,"Approved as dietary supplement, not as a drug for specific indications."
+LJI308,"RPS6KA1, RPS6KA3, RPS6KA2",n/a,inhibitor/antagonist,Other MAPK inhibitor,no,yes,"Investigational compound, not approved for human use as a drug."
+Lonafarnib,"HRAS, KRAS, NRAS",n/a,inhibitor/antagonist,RAS inhibitor,yes,yes,Approved for progeria treatment in children.
+Loperamide (hydrochloride),none,n/a,unclear,unclear,yes,yes,"Approved for diarrhea treatment, limited CNS penetration due to P-gp substrate."
+Lopinavir,none,n/a,inhibitor/antagonist,unclear,yes,yes,Combined with ritonavir for HIV treatment. Approved for human use.
+Lucanthone,none,n/a,inhibitor/antagonist,unclear,no,yes,"Investigated for cancer treatment, not approved for human use."
+Lumateperone (tosylate),"HTR2A, DRD2",n/a,unclear,unclear,yes,yes,Approved for schizophrenia; marketed as Caplyta.
+LY-2584702 (tosylate salt),RPS6KB1,n/a,inhibitor/antagonist,MTOR inhibitor,no,yes,Investigated in clinical trials for cancer treatment. Not approved for human use.
+LY2090314,"GSK3B, GSK3A",n/a,inhibitor/antagonist,GSK3 inhibitor,no,yes,Investigated for Alzheimer's; not approved for any condition.
+Macitentan,"EDNRA, EDNRB",n/a,inhibitor/antagonist,unclear,yes,yes,Approved for pulmonary arterial hypertension treatment.
+Malotilate,ALOX5,n/a,inhibitor/antagonist,unclear,no,yes,"Investigated, but not approved for human use."
+Mebendazole,"TUBA1A, TUBA1B, TUBA1C, TUBB, TUBB1, TUBB2A, TUBB3, TUBB4A, TUBB4B, TUBB6",n/a,inhibitor/antagonist,Microtubule inhibitor,yes,yes,Approved for treating parasitic worm infestations.
+Medroxyprogesterone acetate,PGR,n/a,unclear,unclear,yes,yes,Approved as a contraceptive and for hormone therapy.
+Megestrol,none,n/a,unclear,unclear,yes,yes,Used for appetite loss and weight gain in cancer/AIDS patients.
+Meloxicam,"PTGS1, PTGS2",n/a,inhibitor/antagonist,Cyclooxygenase inhibitor,yes,yes,Meloxicam is an approved NSAID for pain and inflammation.
+Menadione,none,n/a,unclear,unclear,no,yes,"Used in trials; a vitamin K analog, not fully approved for human use."
+Methotrexate,DHFR,n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,yes,yes,Widely used for cancer and autoimmune diseases treatments.
+Methyl aminolevulinate (hydrochloride),none,n/a,unclear,unclear,yes,yes,Used in photodynamic therapy for actinic keratosis.
+Methylprednisolone succinate,NR3C1,n/a,unclear,Glucocorticoid receptor agonist,yes,yes,Corticosteroid; approved for reducing inflammation in various conditions.
+Methylthiouracil,none,n/a,unclear,unclear,no,yes,"Used in research, not approved for human therapeutic use."
+Mifepristone,"NR3C1, PGR",n/a,inhibitor/antagonist,unclear,yes,yes,Approved for medical abortion and Cushing's syndrome treatment.
+Minodronic acid,"P2RX2, P2RX3",n/a,inhibitor/antagonist,unclear,no,yes,Investigated for osteoporosis; not approved in major markets.
+Mitoxantrone (dihydrochloride),"TOP2A, TOP2B, PRKCA",n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,yes,yes,Approved for cancer and multiple sclerosis treatment.
+MK-3903,PRKAA1,n/a,activator/agonist,unclear,no,yes,"Investigated for NASH, not yet approved for human use."
+MK-8353,"MAPK3, MAPK1",n/a,inhibitor/antagonist,Other MAPK inhibitor,no,yes,Investigated for cancer treatment in clinical trials.
+ML264,KLF5,n/a,inhibitor/antagonist,unclear,no,no,No clinical trials found on clinicaltrials.gov.
+Monocrotaline,"SLC22A1, SLC22A2",n/a,inhibitor/antagonist,unclear,no,no,"Toxic pyrrolizidine alkaloid, not approved for human use."
+Mozavaptan,AVPR2,n/a,inhibitor/antagonist,unclear,no,yes,In trials for conditions like hyponatremia but not approved for use.
+Nafamostat (mesylate),none,n/a,inhibitor/antagonist,unclear,yes,yes,"Approved in some countries, often used as anticoagulant."
+Naproxen,"PTGS1, PTGS2",n/a,inhibitor/antagonist,Cyclooxygenase inhibitor,yes,yes,Used as non-prescription NSAID in many countries.
+Neratinib,"EGFR, ERBB2",n/a,inhibitor/antagonist,EGFR/ERBB inhibitor,yes,yes,Approved for breast cancer treatment.
+Neratinib (maleate),"EGFR, ERBB2",n/a,inhibitor/antagonist,EGFR/ERBB inhibitor,yes,yes,Approved for HER2-positive breast cancer treatment.
+Nevirapine,none,n/a,inhibitor/antagonist,unclear,yes,yes,Antiretroviral for HIV treatment approved for human use.
+NG25,"MAP4K2, MAP3K7, LYN, ABL1, ABL2, FER, SRC, EPHA2, EPHB2, EPHB4, ZAK, ZKSCAN1, RAF1",n/a,inhibitor/antagonist,Other MAPK inhibitor,no,yes,"NG25 is in preclinical stages, not approved for humans."
+Niclosamide (olamine),STAT3,n/a,inhibitor/antagonist,unclear,yes,yes,"Approved for parasitic infections, investigated for other uses."
+Nimesulide,PTGS2,n/a,inhibitor/antagonist,Cyclooxygenase inhibitor,no,yes,Withdrawn in some countries due to safety concerns; not FDA-approved.
+Norepinephrine (hydrochloride),"ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, ADRB1",n/a,activator/agonist,Adrenoceptor agonist,yes,yes,Approved for human use as a medication to treat low blood pressure.
+NVP-BHG712,EPHB4,n/a,inhibitor/antagonist,unclear,no,yes,Investigated as angiogenesis inhibitor; not approved for human use.
+Olanzapine,"HTR2A, HTR2C, DRD2, DRD4, ADRA1A, ADRA1B, ADRA1D, HTR6, CHRM1, CHRM2, CHRM3, CHRM4, CHRM5",n/a,inhibitor/antagonist,unclear,yes,yes,Olanzapine is used in treatment of schizophrenia and bipolar disorder.
+olaparib,"PARP1, PARP2",n/a,unclear,DNA synthesis/repair inhibitor,yes,yes,Approved for BRCA-mutated cancers.
+Oleic acid,none,n/a,activator/agonist,unclear,yes,yes,"Used in food, cosmetics, and as an excipient in pharmaceuticals."
+Omeprazole,none,n/a,inhibitor/antagonist,unclear,yes,yes,Used as part of racemic mixture for acid-related conditions.
+Omeprazole (sodium),none,n/a,inhibitor/antagonist,unclear,yes,yes,Approved in salt form as acid reflux treatment.
+Orlistat,none,n/a,inhibitor/antagonist,unclear,yes,yes,Used to treat obesity by preventing fat absorption.
+Ornidazole,none,n/a,unclear,unclear,yes,yes,"Used for bacterial and protozoal infections, common in some countries."
+Osimertinib (mesylate),EGFR,"EGFRT790M/L858R, EGFRL858R",inhibitor/antagonist,EGFR/ERBB inhibitor,yes,yes,Approved for non-small cell lung cancer treatment.
+OTS514,MAP3K8,n/a,inhibitor/antagonist,Other MAPK inhibitor,no,yes,Investigational drug in preclinical and early phase clinical trials.
+Ouabain (Octahydrate),none,n/a,unclear,unclear,no,yes,Investigated for heart failure but not approved for human use.
+Oxaliplatin,none,n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,yes,yes,Approved for use in chemotherapy treatments.
+Oxaprozin,"PTGS1, PTGS2, NFKB1",n/a,inhibitor/antagonist,Cyclooxygenase inhibitor,yes,yes,Approved NSAID for arthritis treatment.
+Paclitaxel,none,n/a,unclear,Microtubule inhibitor,yes,yes,Chemotherapy drug approved for cancer treatment.
+palbociclib,"CDK4, CDK6",n/a,inhibitor/antagonist,CDK inhibitor,yes,yes,Approved for human use as a cancer treatment.
+Palmatine (chloride),"IDO1, WNV NS2B-NS3",n/a,inhibitor/antagonist,unclear,no,yes,Used in some traditional medicine; lacks formal approval for human use.
+Panobinostat,"HDAC1, HDAC2, HDAC3, HDAC6, HDAC8, HDAC10, HDAC11",n/a,inhibitor/antagonist,HDAC inhibitor,yes,yes,Approved for multiple myeloma treatment.
+Pasireotide (acetate),"SSTR1, SSTR2, SSTR3, SSTR5",n/a,activator/agonist,unclear,yes,yes,Approved for Cushing's disease and acromegaly.
+Pemetrexed,"TYMS, DHFR, GART",n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,yes,yes,Chemotherapy drug for mesothelioma and non-small cell lung cancer.
+Pemigatinib,"FGFR1, FGFR2, FGFR3, FGFR4",n/a,inhibitor/antagonist,Other TK inhibitor,yes,yes,Approved for treating cholangiocarcinoma.
+Penfluridol,DRD2,n/a,inhibitor/antagonist,unclear,yes,yes,Long-acting antipsychotic drug approved for human use.
+Pentagastrin,CCKBR,n/a,inhibitor/antagonist,unclear,yes,yes,Used mainly in diagnostic tests for gastric functions.
+Pentamidine (isethionate),PRLR,n/a,inhibitor/antagonist,unclear,yes,yes,Used to treat Pneumocystis pneumonia and African trypanosomiasis.
+Pentoxifylline,none,n/a,inhibitor/antagonist,unclear,yes,yes,Used to improve blood flow in peripheral artery disease.
+Peretinoin,"RXRA, RXRB, RXRG",n/a,unclear,Retinoic receptor agonist,no,yes,"Studied for liver cancer, not approved for human use."
+Perindopril (erbumine),"STAT3, ACE",n/a,inhibitor/antagonist,unclear,yes,yes,Approved ACE inhibitor for hypertension and heart failure.
+Pexidartinib (hydrochloride),"CSF1R, KIT, FLT3",n/a,inhibitor/antagonist,Multi-TK inhibitor,yes,yes,Approved for tenosynovial giant cell tumor in 2019.
+PF-06260933,MAP4K4,n/a,inhibitor/antagonist,Other MAPK inhibitor,no,yes,Investigated for treating pain; not approved for human use.
+PH-797804,MAPK14,n/a,inhibitor/antagonist,Other MAPK inhibitor,no,yes,"Investigated as an anti-inflammatory agent, not approved for human use."
+Phenylephrine (hydrochloride),"ADRA1A, ADRA1B, ADRA1D",n/a,activator/agonist,Adrenoceptor agonist,yes,yes,Widely used as a decongestant and in eye drops.
+Phenytoin (sodium),none,n/a,inhibitor/antagonist,unclear,yes,yes,Commonly used as an anti-seizure medication.
+Pimitespib,"HSP90AA1, HSP90AB1",n/a,inhibitor/antagonist,unclear,no,yes,Investigated in trials for cancer; not approved for human use yet.
+Pimozide,"DRD2, DRD3",n/a,inhibitor/antagonist,unclear,yes,yes,Approved antipsychotic used mainly for Tourette's syndrome and chronic schizophrenia.
+Pioglitazone,PPARG,n/a,activator/agonist,unclear,yes,yes,Approved for type 2 diabetes treatment.
+Piroxicam,"PTGS1, PTGS2",n/a,inhibitor/antagonist,Cyclooxygenase inhibitor,yes,yes,Approved NSAID for arthritis and pain relief.
+Pitavastatin (Calcium),HMGCR,n/a,inhibitor/antagonist,unclear,yes,yes,"Approved for lowering cholesterol, part of statins class of drugs."
+Plicamycin,"SP1, GSTM2",n/a,inhibitor/antagonist,unclear,yes,yes,Plicamycin is used to treat testicular cancer and hypercalcemia.
+Ponatinib,"ABL1, PDGFRA, KDR, FGFR1, SRC, KIT",n/a,inhibitor/antagonist,Multi-TK inhibitor,yes,yes,Approved for treatment of certain types of leukemia.
+Posaconazole,none,n/a,unclear,unclear,yes,yes,Broad-spectrum antifungal approved for human use.
+Pralsetinib,RET,"RETV804L, RETV804M, RETM918T, CCDC6-RET fusion",inhibitor/antagonist,Other TK inhibitor,yes,yes,Approved for RET fusion-positive cancers.
+Pravastatin (sodium),HMGCR,n/a,inhibitor/antagonist,unclear,yes,yes,Approved as a cholesterol-lowering agent.
+Procainamide (hydrochloride),DNMT1,n/a,inhibitor/antagonist,DNA methyltransferase inhibitor,yes,yes,Used for arrhythmias; often as its hydrochloride salt form.
+Proglumide,"CCKBR, CCKAR",n/a,inhibitor/antagonist,unclear,no,yes,"Proglumide investigated for gastrointestinal use, not widely approved for humans."
+Pyridoxine,none,n/a,unclear,unclear,yes,yes,Vitamin B6; essential nutrient approved for various health conditions.
+Pyridoxine (hydrochloride),none,n/a,unclear,unclear,yes,yes,"Vitamin B6, approved for various medical conditions."
+Quinestrol,none,n/a,unclear,unclear,yes,yes,Estrogen approved for use in menopausal therapy and contraceptives.
+Quinidine (15% dihydroquinidine),KCNH2,n/a,inhibitor/antagonist,unclear,yes,yes,Approved for arrhythmias as part of quinine alkaloids.
+Radotinib,ABL1,ABL1T315I,inhibitor/antagonist,Other TK inhibitor,no,yes,"Tested for chronic myeloid leukemia, not approved in major markets."
+Ralimetinib dimesylate,"MAPKAPK2, MAPK14, MAPK11",n/a,inhibitor/antagonist,Other MAPK inhibitor,no,yes,Investigated as cancer treatment; not approved for human use.
+Raltitrexed,TYMS,n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,yes,yes,Approved for cancer treatment as thymidylate synthase inhibitor.
+Ranolazine,none,n/a,inhibitor/antagonist,unclear,yes,yes,Approved for treating chronic angina.
+Rapamycin,"MTOR, FKBP1A",n/a,inhibitor/antagonist,MTOR inhibitor,yes,yes,Approved mainly for organ transplantation and cancer treatment.
+Regorafenib,"BRAF, FLT1, FLT4, KDR, KIT, PDGFRB, RAF1, RET, TEK",BRAFV600E,inhibitor/antagonist,Multi-TK inhibitor,yes,yes,"Used for metastatic colorectal cancer, GIST, HCC."
+Relugolix,GNRHR,n/a,inhibitor/antagonist,unclear,yes,yes,Approved for prostate cancer and uterine fibroids treatment.
+Resveratrol,SIRT1,n/a,unclear,unclear,no,yes,"Studies showed promising results, but no approval for therapeutic use."
+Retinoic acid,"RARB, RARG, RARA, PPARD",n/a,activator/agonist,Retinoic receptor agonist,yes,yes,Approved for acne and leukemia treatment.
+Ribociclib,"CDK4, CDK6",n/a,inhibitor/antagonist,CDK inhibitor,yes,yes,Approved for human use in combination with letrozole for breast cancer.
+Rifaximin,none,n/a,unclear,unclear,yes,yes,Approved for treatment of IBS and hepatic encephalopathy.
+Riluzole hydrochloride,none,n/a,inhibitor/antagonist,unclear,yes,yes,Used in ALS treatment.
+Rimonabant,CNR1,n/a,inhibitor/antagonist,unclear,no,yes,Withdrawn due to psychiatric side effects.
+Rimonabant (Hydrochloride),CNR1,n/a,inhibitor/antagonist,unclear,no,yes,"Withdrawn due to psychiatric side effects, once used as anti-obesity drug."
+Ritonavir,none,n/a,inhibitor/antagonist,unclear,yes,yes,Used in combination HIV therapies.
+RMC-6236,KRAS,KRASG12D,inhibitor/antagonist,RAS inhibitor,no,yes,"Investigated as a potential cancer treatment, but not approved for human use."
+Ropivacaine (hydrochloride monohydrate),none,n/a,inhibitor/antagonist,unclear,yes,yes,A local anesthetic used in surgeries and pain management.
+Rosiglitazone,"PPARG, TRPC5, TRPM3",n/a,unclear,unclear,yes,yes,Approved for diabetes; risk of heart failure in some patients.
+Roxadustat,none,n/a,inhibitor/antagonist,unclear,yes,yes,"Approved for anemia treatment in some countries, e.g., China, Japan."
+Rucaparib (phosphate),"PARP1, PARP2, PARP3",n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,yes,yes,Approved as a cancer therapy PARP inhibitor.
+Rutin (trihydrate),none,n/a,unclear,unclear,no,no,Commonly used in supplements; lacks regulatory approval as a drug.
+S-Adenosyl-L-methionine (disulfate tosylate),none,n/a,unclear,unclear,yes,yes,Used as dietary supplement; approved in some countries for depression treatment.
+Sacubitril/Valsartan,AGTR1,n/a,inhibitor/antagonist,unclear,yes,yes,"Combination drug known as Entresto, used for heart failure treatment."
+Salicylic acid,none,n/a,inhibitor/antagonist,Cyclooxygenase inhibitor,yes,yes,Used topically for acne and in aspirin synthesis.
+Sapanisertib,MTOR,n/a,inhibitor/antagonist,MTOR inhibitor,no,yes,"Investigational mTOR inhibitor, not approved yet but studied for cancer treatment."
+Saquinavir,none,n/a,inhibitor/antagonist,unclear,yes,yes,Approved as part of antiretroviral therapy for HIV/AIDS.
+SBI-0640756,none,n/a,inhibitor/antagonist,Protein synthesis inhibitor,no,no,No record found on clinicaltrials.gov.
+Selinexor,XPO1,n/a,inhibitor/antagonist,unclear,yes,yes,Approved for certain cancer treatments.
+Sildenafil,PDE5A,n/a,inhibitor/antagonist,unclear,yes,yes,Approved for erectile dysfunction and pulmonary arterial hypertension.
+Silodosin,"ADRA1A, ADRA1B, ADRA1D",n/a,inhibitor/antagonist,unclear,yes,yes,Approved for benign prostatic hyperplasia treatment.
+Simotinib,EGFR,n/a,inhibitor/antagonist,EGFR/ERBB inhibitor,no,yes,"Investigated in trials, but not approved for human use."
+Sinomenine,OPRM1,n/a,unclear,unclear,no,yes,Used in trials for pain and arthritis.
+Sivelestat (sodium tetrahydrate),ELANE,n/a,inhibitor/antagonist,unclear,no,yes,"Approved in Japan, not approved in US/EU."
+Sodium Salicylate,PTGS2,n/a,inhibitor/antagonist,Cyclooxygenase inhibitor,no,yes,"Used in studies, NSAID-related research, not approved for standard human therapy."
+Sonidegib,SMO,n/a,inhibitor/antagonist,Sonic inhibitor,yes,yes,Approved for basal cell carcinoma treatment.
+Sulfatinib,"FLT1, KDR, FLT4, FGFR1, CSF1R",n/a,inhibitor/antagonist,Multi-TK inhibitor,no,yes,"Investigated in trials for neuroendocrine tumors, not yet approved for use."
+Sulfisoxazole,"EDNRA, EDNRB",n/a,inhibitor/antagonist,unclear,yes,yes,Discontinued in U.S.; previously used for bacterial infections.
+Sunitinib,"KDR, PDGFRB",n/a,inhibitor/antagonist,Multi-TK inhibitor,yes,yes,Approved anticancer drug used for renal cell carcinoma and gastrointestinal stromal tumors.
+Tadalafil,PDE5A,n/a,inhibitor/antagonist,unclear,yes,yes,Used for erectile dysfunction and pulmonary arterial hypertension.
+TAK-733,MAP2K1,n/a,inhibitor/antagonist,MEK inhibitor,no,yes,Investigated as anti-cancer MEK inhibitor; not approved for human use.
+TAK-901,AURKB,n/a,inhibitor/antagonist,unclear,no,yes,Investigational cancer drug; not approved for human use yet.
+Talc,none,n/a,unclear,unclear,yes,yes,Talc used in pharma and cosmetics; safety under review for some uses.
+Tazarotene,"RARA, RARB, RARG",n/a,activator/agonist,Retinoic receptor agonist,yes,yes,Topical retinoid approved for psoriasis and acne treatment.
+Temsirolimus,MTOR,n/a,inhibitor/antagonist,MTOR inhibitor,yes,yes,Approved for treating renal cell carcinoma.
+Temuterkib,none,n/a,inhibitor/antagonist,Other MAPK inhibitor,no,yes,Temuterkib is in clinical trials for cancer treatment.
+Terfenadine,HRH1,n/a,inhibitor/antagonist,unclear,no,yes,Withdrawn due to cardiac toxicity; replaced by fexofenadine.
+Tetracycline (hydrochloride),none,n/a,unclear,unclear,yes,yes,Approved antibiotic often used as tetracycline hydrochloride.
+Thymol,TRPA1,n/a,activator/agonist,unclear,no,yes,Used in clinical trials as antiseptic and antifungal.
+Thymopentin,none,n/a,unclear,unclear,no,yes,In clinical trials for immune deficiency and autoimmune diseases.
+Tirabrutinib,BTK,n/a,inhibitor/antagonist,Other TK inhibitor,no,yes,"In clinical trials, not approved for human use yet."
+Tirabrutinib (hydrochloride),BTK,n/a,inhibitor/antagonist,Other TK inhibitor,no,yes,Not approved in US/EU; used investigationally in some regions.
+Tofacitinib,"JAK1, JAK2, JAK3",n/a,inhibitor/antagonist,JAK/STAT inhibitor,yes,yes,Approved for rheumatoid arthritis and other conditions.
+Tofacitinib (citrate),"JAK1, JAK2, JAK3",n/a,inhibitor/antagonist,JAK/STAT inhibitor,yes,yes,Approved for rheumatoid arthritis and other conditions.
+Tolcapone,COMT,n/a,inhibitor/antagonist,unclear,yes,yes,"Used in Parkinson's treatment, subject to liver monitoring."
+Tolmetin,"PTGS1, PTGS2",n/a,inhibitor/antagonist,Cyclooxygenase inhibitor,yes,yes,Approved NSAID for pain and inflammation.
+Tomivosertib,none,n/a,inhibitor/antagonist,Protein synthesis inhibitor,no,yes,In clinical trials for cancer; not FDA approved for human use yet.
+Topotecan (hydrochloride),TOP1,n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,yes,yes,"Approved for treating ovarian, small cell lung, and cervical cancer."
+Torkinib,"MTOR, PDGFRA, PRKDC, PIK3CD, PIK3CG, PIK3CA, PIK3CB, HCK, SRC, KDR, ABL1, EPHB4, EGFR",n/a,inhibitor/antagonist,MTOR inhibitor,no,yes,In clinical trials for cancer treatment but not yet approved.
+Trametinib,"MAP2K1, MAP2K2",n/a,inhibitor/antagonist,MEK inhibitor,yes,yes,Approved for melanoma treatment.
+Trametinib (DMSO_TF solvate),"MAP2K1, MAP2K2",n/a,inhibitor/antagonist,MEK inhibitor,yes,yes,"Approved for use in cancer treatment (e.g., melanoma)."
+Tranilast,"PLA2G2A, EGR1",n/a,inhibitor/antagonist,unclear,yes,yes,Approved for asthma and allergic disorders in some countries.
+Triamcinolone,NR3C1,n/a,unclear,Glucocorticoid receptor agonist,yes,yes,Approved corticosteroid for various inflammatory and allergic conditions.
+Triclosan,none,n/a,inhibitor/antagonist,unclear,no,yes,Banned in soaps; used in some consumer products and healthcare settings.
+Trifluridine,none,n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,yes,yes,Used to treat viral infections and in cancer therapy (with tipiracil).
+Trimetrexate,DHFR,n/a,inhibitor/antagonist,DNA synthesis/repair inhibitor,yes,yes,Used with leucovorin for treating certain types of pneumonia.
+Tubulin inhibitor 6,none,n/a,inhibitor/antagonist,Microtubule inhibitor,no,no,No available data on human use or clinical trials.
+Tucatinib,ERBB2,n/a,inhibitor/antagonist,EGFR/ERBB inhibitor,yes,yes,Approved for human use in advanced HER2-positive breast cancer.
+Tucidinostat,"HDAC1, HDAC2, HDAC3, HDAC10, HDAC8, HDAC11",n/a,inhibitor/antagonist,HDAC inhibitor,yes,yes,Approved for use in China for certain cancers.
+ULK-101,"ULK1, ULK2",n/a,inhibitor/antagonist,unclear,no,no,No clinical trial data found on clinicaltrials.gov.
+Uridine,none,n/a,unclear,unclear,no,yes,"Studied in trials; not approved as standalone drug, essential body metabolite."
+Valdecoxib,PTGS2,n/a,inhibitor/antagonist,Cyclooxygenase inhibitor,no,yes,Withdrawn due to safety concerns related to cardiovascular risks.
+Vandetanib,"EGFR, KDR",n/a,inhibitor/antagonist,Multi-TK inhibitor,yes,yes,Approved for use in medullary thyroid cancer.
+Vemurafenib,BRAF,BRAFV600E,inhibitor/antagonist,RAF inhibitor,yes,yes,Approved for treating BRAF V600E mutation-positive melanoma.
+venetoclax,BCL2,n/a,inhibitor/antagonist,unclear,yes,yes,Approved for chronic lymphocytic leukemia and other cancers.
+Verapamil,"CYP3A4, ABCB1",n/a,inhibitor/antagonist,unclear,yes,yes,Used as a racemic mixture for hypertension and angina.
+Verteporfin,YAP1,n/a,inhibitor/antagonist,unclear,yes,yes,Used in photodynamic therapy for macular degeneration.
+Vilanterol,ADRB2,n/a,activator/agonist,Adrenoceptor agonist,yes,yes,Combined with fluticasone furoate for asthma and COPD treatment.
+Vinblastine (sulfate),none,n/a,inhibitor/antagonist,Microtubule inhibitor,yes,yes,"Used in cancer treatment, notably Hodgkin's lymphoma."
+vincristine,none,n/a,inhibitor/antagonist,Microtubule inhibitor,yes,yes,Used in chemotherapy for various cancers.
+Vismodegib,"SMO, ABCB1, ABCG2",n/a,inhibitor/antagonist,Sonic inhibitor,yes,yes,Approved for treating basal cell carcinoma.
+Vitamin K4,none,n/a,unclear,unclear,no,yes,Investigated in a clinical trial in Egypt.
+Volasertib,"PLK1, PLK2, PLK3",n/a,inhibitor/antagonist,unclear,no,yes,"Investigated for cancer treatment, not approved for human use."
+Voriconazole,none,n/a,inhibitor/antagonist,unclear,yes,yes,Approved for treating invasive fungal infections.
+Vortioxetine,"SLC6A4, HTR3A, HTR7",n/a,unclear,unclear,yes,yes,Approved for major depressive disorder.
+XRK3F2,none,n/a,inhibitor/antagonist,unclear,no,no,No results found on clinicaltrials.gov
+Zileuton,ALOX5,n/a,inhibitor/antagonist,unclear,yes,yes,Approved for asthma treatment; 5-lipoxygenase inhibitor.
+γ-Oryzanol,none,n/a,inhibitor/antagonist,DNA methyltransferase inhibitor,no,yes,Used in supplements; limited human data.
